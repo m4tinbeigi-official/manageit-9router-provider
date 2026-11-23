@@ -1,0 +1,7 @@
+# ManageIt 9Router Provider Configuration
+
+api_key: "668|ZtRfaooiJQWsyId6pfp2BAxcXOnS4iOo82qSQ7qU3719218f"
+base_url: https://ai.manageit.dev/api/v1
+node_id: openai-compatible-chat-manageit
+conn_id: conn-manageit
+db_path: /Users/ricksabchez/.9router/db/data.sqlite
